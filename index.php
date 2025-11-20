@@ -57,7 +57,7 @@ include 'config.php';
         }
     </script>
 </head>
-
+ 
 <body>
     <h2> Library Management System </h2>
     <h3> Department </h3>
